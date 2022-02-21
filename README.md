@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcel
 - 🌱 I’m currently learning ...
-- 📫 Discord: marcel251#9342
+- 📫 Discord: VIPMarcel#9342
 
 <!---
 VIPMarcel/VIPMarcel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
