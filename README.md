@@ -39,11 +39,14 @@
 <hr>
 
 <h4 align="center">🛠️ Tools and Platforms ...</h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;    
+<p align="center">  
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;    
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Ultimate">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="NotePadPlusPlus">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
 </p>
+
+<hr>
+
+<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
