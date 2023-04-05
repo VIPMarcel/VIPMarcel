@@ -34,4 +34,4 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VIPMarcel&area=true&hide_border=true&theme=gotham)  
+https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula 
