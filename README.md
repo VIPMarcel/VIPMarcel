@@ -3,7 +3,8 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VIPMarcel&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Marcel's Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=VIPMarcel&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Marcel's Stats"/><br>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula) 
 </p>
 
 
@@ -33,5 +34,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;    
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula) 
