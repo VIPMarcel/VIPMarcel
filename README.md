@@ -50,5 +50,6 @@
 <hr>
 
 <p align="center"> 
-    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"><br>
+    <img src="https://api.visitorbadge.io/api/visitors?path=VIPMarcel&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper">
 </p>
