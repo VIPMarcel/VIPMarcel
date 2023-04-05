@@ -34,4 +34,4 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
 </p>
 
-https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula) 
