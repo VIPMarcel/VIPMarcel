@@ -2,15 +2,7 @@
 
 <hr>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VIPMarcel&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true&custom_title=Stats&hide=issues,stars" alt="Marcel's Stats"/>
-</p>
-
-<p align="center">
-    <img scr="https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula"/>
-</p>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula)
 
 <hr>
 
