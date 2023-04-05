@@ -3,7 +3,7 @@
 <hr>
 
 <div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula)
+    <img src="https://github-readme-stats.vercel.app/api?username=vipmarcel&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&show_owner=true">
 </div>
 
 <hr>
